@@ -1,13 +1,18 @@
 ---
 layout: default
 ---
+# New Site Home Page
 
-<div class="home">
+See my new pages!
 
-  <h1 class="page-heading">Posts</h1>
+* [About](/about/)
+* [FAQ](/faq/)
+* [Procedure](/procedure/)
 
-  <ul class="post-list">
-    {% for post in site.posts %}
+## Posts
+
+<ul>
+{% for post in site.posts %}
       <li>
         <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
 
@@ -15,9 +20,11 @@ layout: default
           <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title | escape }}</a>
         </h2>
       </li>
-    {% endfor %}
-  </ul>
+{% endfor %}
+</ul>
 
-  <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
+# More 
+For more info see these pages:
 
-</div>
+- page 1
+- page 2
