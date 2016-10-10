@@ -21,11 +21,11 @@ permalink: /faq/
 
 - **Q: Is there anything I need to know about quick releases?**
   
-  A:If your bike has a quick release on the back wheel be very careful with the axle. Handle it carefully and put it where it will not get stood upon while you're changing the tire. A slight bend will mean buying a whole new axle.
+  A: If your bike has a quick release on the back wheel be very careful with the axle. Handle it carefully and put it where it will not get stood upon while you're changing the tire. A slight bend will mean buying a whole new axle.
 
 - **Q: Even without major physical harm, how long should my tires and tubes last?**
   
-  A:Tires and tubes deteriorate after about 10-15 years, (7 years if exposed to the UV light) so if your tubes and tires are older than 10 years, consider replacing them.
+  A: Tires and tubes deteriorate after about 10-15 years, (7 years if exposed to the UV light) so if your tubes and tires are older than 10 years, consider replacing them.
 
 - **Q: I just installed an new tube, but it’s not inflating.**
   
