@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# New Site Home Page
+# Home Page
 
 See my new pages!
 
