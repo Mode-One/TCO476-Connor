@@ -35,5 +35,5 @@ permalink: /procedure/
 14. Remove the pump and hand tighten the presta screw and lock ring.
 ---
 15. Put the repaired wheel back on the bike. Re-tension the brakes and/or chain if doing back wheel. Ensure that the chain is aligned after replacment. 
- ---
+---
 18. Enjoy your repaired bike!
