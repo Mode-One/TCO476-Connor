@@ -12,9 +12,11 @@ permalink: /procedure/
 2. Release the brakes if your bike is equipped with them - this prevents them interfering with wheel removal.
 3. Take the wheel out of the frame.
 4. Deflate the tube completely by pressing down on the inner part of the inflation valve. This can be done with a screwdriver. 
+---
+![](http://justyna.typepad.com/photos/uncategorized/2008/07/20/1pressschrader.jpg)
+---
 5. Loosen the tire tred from the wheel rim by squeezing the tire together all the way around the rim.
 6. Use a couple of tire levers to remove the tred completely (you can purchase these at your local bike/outdoor store).
-
 ---
 ![](http://cdn.coresites.factorymedia.com/twc/wp-content/uploads/2013/03/IMG_5156.jpg)
 ---
