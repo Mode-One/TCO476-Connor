@@ -31,7 +31,7 @@ permalink: /procedure/
 10) Either patch, or replace the inner tube. You may have to competely replace your tube and tire if both are torn severely. <br/>
 
 ---
-![](http://dingo.care2.com/pictures/greenliving/1011/1010443.large.jpg)
+![](http://dingo.care2.com/pictures/greenliving/1011/1010443.large.jpg) <br/>
 ---
 11) Place the new tube into the tire ensuring the tub is not twisted at all and fill the tube with a few pumps of air. <br/>
 12) Work the tire onto the rim one side at a time. <br/>
