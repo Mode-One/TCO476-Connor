@@ -5,7 +5,7 @@ date:   2016-09-21 19:25:31 +0000
 permalink: /faq/
 ---
 
-# FAQ
+#FAQ
 
 - **Q: How do I prevent over-inflation?**
   
