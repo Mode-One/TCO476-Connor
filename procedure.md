@@ -5,9 +5,8 @@ date:   2016-09-21 19:25:31 +0000
 permalink: /procedure/
 ---
 
-# Procedure
+#Changing a Bike Tire
 
-##### Changing a Bike Tire
 1) Loosen the nuts that hold the axle to the frame. <br/>
 2) Release the brakes if your bike is equipped with them - this prevents them interfering with wheel removal. <br/>
 3) Take the wheel out of the frame. <br/>
