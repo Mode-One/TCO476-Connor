@@ -8,7 +8,7 @@ permalink: /procedure/
 # Procedure
 
 ##### Changing a Bike Tire
-1) Loosen the nuts that hold the axle to the frame.
+1) Loosen the nuts that hold the axle to the frame. <br/>
 2) Release the brakes if your bike is equipped with them - this prevents them interfering with wheel removal.
 3) Take the wheel out of the frame.
 4) Deflate the tube completely by pressing down on the inner part of the inflation valve. This can be done with a screwdriver. 
